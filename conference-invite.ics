@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//BarNet//Conference Invite//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1234567890@barnet.dev
+DTSTAMP:20250612T000000Z
+DTSTART:20250919T233000Z
+DTEND:20250920T070000Z
+SUMMARY:Pathways to Justice for Survivors Conference
+LOCATION:Aerial Function Centre, Jones St, Ultimo NSW 2007
+DESCRIPTION:Join us for workshops, panels, and networking.
+END:VEVENT
+END:VCALENDAR
